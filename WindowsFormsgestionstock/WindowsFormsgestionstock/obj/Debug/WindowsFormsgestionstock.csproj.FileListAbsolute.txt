@@ -1,0 +1,15 @@
+C:\Users\Mouad\Desktop\gestion de stock\WindowsFormsgestionstock\WindowsFormsgestionstock\bin\Debug\WindowsFormsgestionstock.exe.config
+C:\Users\Mouad\Desktop\gestion de stock\WindowsFormsgestionstock\WindowsFormsgestionstock\bin\Debug\WindowsFormsgestionstock.exe
+C:\Users\Mouad\Desktop\gestion de stock\WindowsFormsgestionstock\WindowsFormsgestionstock\bin\Debug\WindowsFormsgestionstock.pdb
+C:\Users\Mouad\Desktop\gestion de stock\WindowsFormsgestionstock\WindowsFormsgestionstock\obj\Debug\WindowsFormsgestionstock.csprojResolveAssemblyReference.cache
+C:\Users\Mouad\Desktop\gestion de stock\WindowsFormsgestionstock\WindowsFormsgestionstock\obj\Debug\WindowsFormsgestionstock.Properties.Resources.resources
+C:\Users\Mouad\Desktop\gestion de stock\WindowsFormsgestionstock\WindowsFormsgestionstock\obj\Debug\WindowsFormsgestionstock.csproj.GenerateResource.Cache
+C:\Users\Mouad\Desktop\gestion de stock\WindowsFormsgestionstock\WindowsFormsgestionstock\obj\Debug\WindowsFormsgestionstock.exe
+C:\Users\Mouad\Desktop\gestion de stock\WindowsFormsgestionstock\WindowsFormsgestionstock\obj\Debug\WindowsFormsgestionstock.pdb
+C:\Users\Mouad\Desktop\gestion de stock\WindowsFormsgestionstock\WindowsFormsgestionstock\obj\Debug\WindowsFormsgestionstock.Menu.resources
+C:\Users\Mouad\Desktop\gestion de stock\WindowsFormsgestionstock\WindowsFormsgestionstock\obj\Debug\WindowsFormsgestionstock.AjouterArticle.resources
+C:\Users\Mouad\Desktop\gestion de stock\WindowsFormsgestionstock\WindowsFormsgestionstock\obj\Debug\WindowsFormsgestionstock.ajouterMagasin.resources
+C:\Users\Mouad\Desktop\gestion de stock\WindowsFormsgestionstock\WindowsFormsgestionstock\obj\Debug\WindowsFormsgestionstock.Fournisseur.resources
+C:\Users\Mouad\Desktop\gestion de stock\WindowsFormsgestionstock\WindowsFormsgestionstock\obj\Debug\WindowsFormsgestionstock.Ajoutercommande.resources
+C:\Users\Mouad\Desktop\gestion de stock\WindowsFormsgestionstock\WindowsFormsgestionstock\obj\Debug\WindowsFormsgestionstock.commande_ventes.resources
+C:\Users\Mouad\Desktop\gestion de stock\WindowsFormsgestionstock\WindowsFormsgestionstock\obj\Debug\WindowsFormsgestionstock.clients.resources
